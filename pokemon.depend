@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1480359302 source:c:\users\fernanda\downloads\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1480351907 c:\users\fernanda\downloads\pokemon\pokemon.h
+
+1480359674 source:c:\users\fernanda\downloads\pokemon\pokemon.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1480356074 source:e:\pokemon\pokemon.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1480348307 e:\pokemon\pokemon.h
+
+1480368996 source:e:\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
